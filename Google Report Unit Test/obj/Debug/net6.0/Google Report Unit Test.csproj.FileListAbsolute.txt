@@ -1,0 +1,20 @@
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.csproj.AssemblyReference.cache
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.AssemblyInfoInputs.cache
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.AssemblyInfo.cs
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.csproj.CoreCompileInputs.cache
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Google Report Unit Test.exe
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Google Report Unit Test.dll.config
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Google Report Unit Test.deps.json
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Google Report Unit Test.runtimeconfig.json
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Google Report Unit Test.dll
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Google Report Unit Test.pdb
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google R.D8CAF4E8.Up2Date
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.dll
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\refint\Google Report Unit Test.dll
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.pdb
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\Google Report Unit Test.genruntimeconfig.cache
+C:\Users\alzco\source\repos\Google-Reports\Google Report Unit Test\obj\Debug\net6.0\ref\Google Report Unit Test.dll
